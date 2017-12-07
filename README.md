@@ -27,7 +27,7 @@ Nevertheless, to analytically calculate P values severalassumptions have to be m
 # threshold for high confidence prediction based on probabilistic ranking. Check different values to 
 th.pvalue_clusters = 1e-2
 
-![Alt text](/ranking.jpg?raw=true "GRACE workflow")
+![Alt text](/ranking.jpeg?raw=true "Ranking threshold")
 
 # matrix should be prepared and saved as R matrix in a rds file first  
 

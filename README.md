@@ -67,4 +67,4 @@ n.sample_size <- 0.632 # as in traditional bootrapping approaches
 
 cite:
 
-Schlapfer P, Zhang P, Chuan W, Kim T, Chae L, Dreher K, Nilo-Poyanco R, Arvind Chavali, and Rhee SY. (2017) Genome-wide prediction of metabolic enzymes, pathways, and gene clusters in plants. Plant Physiology 173(4):2041-2059.
+Schlapfer P, Zhang P, Chuan W, Kim T, Banf M, Chae L, Dreher K, Nilo-Poyanco R, Arvind Chavali, and Rhee SY. (2017) Genome-wide prediction of metabolic enzymes, pathways, and gene clusters in plants. Plant Physiology 173(4):2041-2059.
